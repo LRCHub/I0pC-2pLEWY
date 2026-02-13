@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Bad Boy",
+  "base_artist": "Red Velvet",
+  "createdAt": "2026-02-13T14:06:51.562446Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Boy",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/01_Bad_Boy_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La belle et le bad boy",
+      "artist": "MC Solaar",
+      "has_synced": true,
+      "path": "select/02_La_belle_et_le_bad_boy_MC_Solaar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fantasy (Bad Boy Fantasy Remix) (Feat. Ol' Dirty Bastard)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/03_Fantasy_(Bad_Boy_Fantasy_Remix)_(Feat._Ol'_Dirty_Bastard)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Boy (Delaney Bramlett Mix)",
+      "artist": "Eric Clapton",
+      "has_synced": false,
+      "path": "select/04_Bad_Boy_(Delaney_Bramlett_Mix)_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad Boy Boogie",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/05_Bad_Boy_Boogie_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bad Boy",
+      "artist": "Buster Poindexter",
+      "has_synced": true,
+      "path": "select/06_Bad_Boy_Buster_Poindexter.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad Boy",
+      "artist": "Ray Parker Jr.",
+      "has_synced": false,
+      "path": "select/07_Bad_Boy_Ray_Parker_Jr..txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bad Boy",
+      "artist": "Den Harrow",
+      "has_synced": true,
+      "path": "select/08_Bad_Boy_Den_Harrow.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Boy",
+      "artist": "Den Harrow",
+      "has_synced": true,
+      "path": "select/09_Bad_Boy_Den_Harrow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bad Boy",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/10_Bad_Boy_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bad Boy",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/11_Bad_Boy_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad Boy",
+      "artist": "Autograph",
+      "has_synced": false,
+      "path": "select/12_Bad_Boy_Autograph.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bad Boy",
+      "artist": "Lita Ford",
+      "has_synced": false,
+      "path": "select/13_Bad_Boy_Lita_Ford.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bad Boy",
+      "artist": "Quiet Riot",
+      "has_synced": true,
+      "path": "select/14_Bad_Boy_Quiet_Riot.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bad Boy",
+      "artist": "P.O.D.",
+      "has_synced": true,
+      "path": "select/15_Bad_Boy_P.O.D..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad Boy",
+      "artist": "Red Velvet",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_Boy_Red_Velvet.txt"
+    }
+  ]
+}
